@@ -1,0 +1,22 @@
+{
+    "commands": [
+        {
+            "name": "teste",
+            "description": "Comando de teste",
+            "type": 1,
+            "command": "TEST_COMMAND",
+            "data": {
+                "content": "Teste()"
+            }
+        },
+        {
+            "name": "pixza",
+            "description": "Cotação da pixza",
+            "type": 1,
+            "command": "PIXZA_COMMAND",
+            "data": {
+                "content": "getPixzaPrice()"
+            }
+        }
+    ]
+}
