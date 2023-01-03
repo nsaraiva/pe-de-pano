@@ -1,2 +1,4 @@
-# web3-guru
-Learn-to-earn web3 bot for Discord
+# Pé de Pano
+Gohorse.dev bot
+
+Intalar express e discord-interactions
