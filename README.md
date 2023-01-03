@@ -1,4 +1,4 @@
 # Pé de Pano
 Gohorse.dev bot
 
-Intalar express e discord-interactions
+Instalar express e discord-interactions
